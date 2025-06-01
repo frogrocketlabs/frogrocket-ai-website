@@ -7,7 +7,7 @@ Physical AI deployments will revolutionize information processing systems in two
 - **Force multiplier**: Intelligent machinery will act as a force multiplier for human operators looking to manipulate the physical world
 - **Rich data feeds**: Targeted data feeds produced by this machinery will allow existing digital systems to plan and coordinate more effectively
 
-> **Example**: Imagine automated construction equipment that can fill in detailed soil composition maps as a dig proceeds, or patient monitoring systems aware that they are participating in a hospital-wide optimization process.
+> Imagine automated construction equipment that can fill in detailed soil composition maps as a dig proceeds, or patient monitoring systems aware that they are participating in a hospital-wide optimization process.
 
 Current approaches treat physical AI as standalone automation rather than as extensions of digital infrastructure. **The real opportunity** lies in building physical AI with the explicit goal of participating in existing systems—not just automating isolated tasks, but serving as intelligent sensors that can execute specific functions while continuously reporting back both their intended outputs and the rich environmental data they gather as a byproduct.
 
@@ -47,7 +47,7 @@ Our first set of modules enable reliable perception in the real world by:
 
 ---
 
-# Why this team
+# Why Us?
 
 Our [team](../team/index.qmd) combines deep expertise from both academia and industry.
 
@@ -59,7 +59,7 @@ The techniques we're using are in the same family as the **"inference-time compu
 
 ---
 
-# Put users first
+# Focused on Users
 
 We'd love to speak with you more to understand your challenges and see if an early partnership makes sense. If you're working in any of the following areas, send us a note at **[hello@frogrocket.ai](mailto:hello@frogrocket.ai)**.
 
